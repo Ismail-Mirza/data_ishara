@@ -1,0 +1,26 @@
+<annotation>
+	<folder>u(উ)</folder>
+	<filename>20180928_115229(0).jpg</filename>
+	<path>C:\Users\ismi7\Downloads\BdSLImset-master\BdSLImset-master\u(উ)\20180928_115229(0).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>336</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>u</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>60</ymin>
+			<xmax>248</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>o(ও)</folder>
+	<filename>20180928_115814.jpg</filename>
+	<path>C:\Users\ismi7\Downloads\BdSLImset-master\BdSLImset-master\o(ও)\20180928_115814.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>336</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>o</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>147</ymin>
+			<xmax>265</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>a(আ)</folder>
+	<filename>IMG_20180925_154717.jpg</filename>
+	<path>C:\Users\ismi7\Downloads\BdSLImset-master\BdSLImset-master\a(আ)\IMG_20180925_154717.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>265</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>205</ymin>
+			<xmax>134</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

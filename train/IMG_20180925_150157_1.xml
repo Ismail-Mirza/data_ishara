@@ -1,0 +1,26 @@
+<annotation>
+	<folder>k(ক)</folder>
+	<filename>IMG_20180925_150157_1.jpg</filename>
+	<path>C:\Users\ismi7\Downloads\BdSLImset-master\BdSLImset-master\k(ক)\IMG_20180925_150157_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>233</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>k</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>142</ymin>
+			<xmax>110</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

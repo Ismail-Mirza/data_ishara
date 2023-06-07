@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kh(খ)</folder>
+	<filename>IMG_20180925_142244.jpg</filename>
+	<path>C:\Users\ismi7\Downloads\BdSLImset-master\BdSLImset-master\kh(খ)\IMG_20180925_142244.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>274</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>202</ymin>
+			<xmax>192</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>e(এ)</folder>
+	<filename>20180928_120030.jpg</filename>
+	<path>C:\Users\ismi7\Downloads\BdSLImset-master\BdSLImset-master\e(এ)\20180928_120030.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>336</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>e</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>129</ymin>
+			<xmax>246</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>oo(অ)</folder>
+	<filename>IMG_20180925_140452.jpg</filename>
+	<path>C:\Users\ismi7\Downloads\BdSLImset-master\BdSLImset-master\oo(অ)\IMG_20180925_140452.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>246</width>
+		<height>448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>176</ymin>
+			<xmax>141</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>
